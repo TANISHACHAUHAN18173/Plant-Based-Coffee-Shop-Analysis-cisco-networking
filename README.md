@@ -102,5 +102,9 @@ Consider offering almond milk and soy milk as secondary options for variety.
 
 
 
+
+
+
+
  <img src="<img width="883" height="309" alt="image" src="https://github.com/user-attachments/assets/aad54b2f-2043-4fef-8299-190aab0e32b7" />
-.png" width="500">
+
